@@ -1,4 +1,4 @@
-# 🎮 Trouble-Gan - Web3 Gaming Website
+## 🎮 Trouble-Gan - Web3 Gaming Website
 
 A modern, high-performance React + TypeScript website showcasing the Trouble-Gan gaming platform with stunning animations and interactive UI.
 

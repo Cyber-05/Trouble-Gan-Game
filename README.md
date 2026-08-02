@@ -2,7 +2,7 @@
 
 A modern, high-performance React + TypeScript website showcasing the Trouble-Gan gaming platform with stunning animations and interactive UI.
 
-## 🚀 Live Demo
+# 🚀 Live Demo
 
 **Website:** https://trouble-gan-game.web.app
 
